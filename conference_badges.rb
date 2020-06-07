@@ -18,3 +18,10 @@ def assign_rooms (names)
   end
   assignment_array  
 end
+
+def printer (array_1, array_2)
+  array_1.each do |name|
+    puts name
+  end
+  
+end
