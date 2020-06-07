@@ -24,4 +24,8 @@ def printer (array_1, array_2)
     puts name
   end
   
+  array_2.each do |assign|
+    puts assign
+  end
+  
 end
